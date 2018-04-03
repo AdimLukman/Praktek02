@@ -8,6 +8,7 @@ public class RectangleAksi {
         R1.tinggi = 6;
         
         R1.cetakInfo();
+        System.out.println("Volume rectangle =" +R1.hitungVolume());
     }
     
 }

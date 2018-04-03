@@ -12,4 +12,10 @@ public class Rectangle {
         System.out.println("==================");
     }
     
+    double hitungVolume(){
+        double volume;
+        volume=panjang*lebar*tinggi;
+        return volume;
+    }
+    
 }
