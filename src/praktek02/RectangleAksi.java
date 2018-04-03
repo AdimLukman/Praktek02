@@ -6,6 +6,8 @@ public class RectangleAksi {
         R1.panjang = 9;
         R1.lebar = 3;
         R1.tinggi = 6;
+        
+        R1.cetakInfo();
     }
     
 }
